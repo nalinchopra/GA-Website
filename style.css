@@ -21,6 +21,6 @@ img {
 	text-align: center;
 }
 .first {
-	background-image: url("http://i.imgur.com/5aGLPVX.jpg?1");
+	img: url("http://i.imgur.com/5aGLPVX.jpg?1");
 	align: top|left;
 }
