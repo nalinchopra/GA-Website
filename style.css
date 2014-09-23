@@ -11,4 +11,9 @@ div {
       	padding: 20px;
 	 margin: 0 auto;
 }
-
+header {
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	font-family: helvetica;
+}
