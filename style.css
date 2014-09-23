@@ -20,7 +20,6 @@ header {
 img {
 	text-align: center;
 }
-.first {
-	img: url("http://i.imgur.com/5aGLPVX.jpg?1");
-	align: top|left;
+p {
+	float: right;
 }
