@@ -1,10 +1,10 @@
  body  {
 	text-align: center;
+	background: url('http://www.greenhdwallpaper.com/wp-content/uploads/2014/08/background-of-forest-3.jpg');
 	background-size: cover;
 	background-position: center;
 	color: black;
 	font-family: helvetica;
-	background: url('http://www.greenhdwallpaper.com/wp-content/uploads/2014/08/background-of-forest-3.jpg');
 }
 div {
 	font-size: 18px;
