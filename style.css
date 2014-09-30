@@ -4,6 +4,7 @@
 	background-position: center;
 	color: black;
 	font-family: helvetica;
+	background: url('http://www.greenhdwallpaper.com/wp-content/uploads/2014/08/background-of-forest-3.jpg');
 }
 div {
 	font-size: 18px;
@@ -14,7 +15,6 @@ div {
 header {
 	text-align: center;
 	font-size: 30px;
-	background: url('http://www.greenhdwallpaper.com/wp-content/uploads/2014/08/background-of-forest-3.jpg');
 	color: black;
 	font-family: helvetica;
 }
