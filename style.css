@@ -7,6 +7,7 @@
 	font-family: helvetica;
 }
 div {
+	text-align: center;
 	font-size: 18px;
 	max-width: 500px;
       	padding: 20px;
