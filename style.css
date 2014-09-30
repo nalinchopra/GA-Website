@@ -24,3 +24,6 @@ img {
 	border: 7px solid white;
       	border-radius: 20px;
 }
+figcaption { 
+    display: block;
+}
